@@ -1,0 +1,37 @@
+API Reference (Sample)
+Base URL: https://api.acme-notes.example/v1
+Authentication: Bearer token in Authorization header
+
+POST /notes
+Description: Create a note
+Request JSON:
+{
+  "title": "string",
+  "content": "string",
+  "tags": ["string"]
+}
+Response JSON:
+{
+  "id": "note_123",
+  "title": "string",
+  "content": "string",
+  "tags": ["string"],
+  "created_at": "ISO-8601"
+}
+
+GET /notes/{id}
+Description: Retrieve a note by ID
+Response codes:
+- 200 OK: returns note
+- 404 Not Found: note does not exist
+
+DELETE /notes/{id}
+Description: Delete a note by ID
+Response codes:
+- 204 No Content: deleted successfully
+- 404 Not Found: note does not exist
+
+Rate Limits
+- 60 requests/minute per user token
+- 10 requests/minute for unauthenticated endpoints
+

@@ -1,0 +1,32 @@
+Product FAQ (Sample Knowledge Base)
+Product Name: Acme Notes
+Last Updated: 2026-02-01
+
+Getting Started
+- Acme Notes is a note-taking app that supports tags, folders, and offline mode.
+- Offline mode syncs automatically when the device reconnects to the internet.
+
+Accounts and Billing
+- Free plan: up to 50 notes, 3 folders, and 1 device.
+- Pro plan: unlimited notes, unlimited folders, up to 5 devices.
+- Team plan: shared workspaces, admin controls, SSO support.
+
+Common Questions
+Q: How do I reset my password?
+A: Go to Settings → Account → Reset Password. You will receive a reset email.
+
+Q: Does Acme Notes support Markdown?
+A: Yes. Toggle Markdown in Settings → Editor.
+
+Q: Why is my sync failing?
+A: Common causes:
+  1) You are offline.
+  2) Your token expired; log out and log back in.
+  3) Your workspace is over storage limit.
+
+Troubleshooting Checklist
+- Check your network connection.
+- Confirm the app version is 2.4.0 or later.
+- Try signing out and signing back in.
+- If still failing, contact support with your user ID and device model.
+

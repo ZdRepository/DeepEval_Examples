@@ -1,0 +1,32 @@
+Onboarding: Customer Support (Sample)
+Version: 0.9
+Last Updated: 2026-01-20
+
+Goal
+Help customers resolve issues quickly with consistent steps.
+
+Standard Response Pattern
+1) Acknowledge the issue
+2) Ask for minimal required details
+3) Provide troubleshooting steps
+4) Offer escalation if unresolved
+
+Minimal Required Details
+- User ID
+- Device type + OS version
+- App version
+- Steps to reproduce
+- Screenshots (if UI-related)
+
+Escalation Criteria
+Escalate to engineering if:
+- Crash affects multiple customers and is reproducible
+- Data loss is reported
+- Security concerns exist (account takeover, token leakage, etc.)
+
+Macro: Sync Issue
+"Please confirm you're on app version 2.4.0 or later, and try signing out/in. If the issue persists, share your user ID and iOS/Android version."
+
+Macro: Billing Question
+"Please confirm your plan (Free/Pro/Team) and provide the invoice number if available."
+

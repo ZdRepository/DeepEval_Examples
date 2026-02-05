@@ -1,0 +1,31 @@
+Support Ticket History (Sample)
+Period Covered: 2025-12 to 2026-02
+
+TICKET-1001
+Date: 2025-12-12
+Customer: Northwind LLC
+Issue: "App crashes when opening a large note."
+Resolution: Fixed in version 2.3.2 by optimizing note rendering.
+
+TICKET-1002
+Date: 2026-01-05
+Customer: Contoso Inc
+Issue: "SSO login returns 'invalid audience'."
+Resolution: Misconfigured SAML audience; customer updated IdP settings.
+
+TICKET-1003
+Date: 2026-01-21
+Customer: Fabrikam
+Issue: "Sync stuck at 99% on iOS."
+Resolution: Known issue in 2.3.9; upgrade to 2.4.0.
+
+TICKET-1004
+Date: 2026-02-03
+Customer: Adventure Works
+Issue: "Cannot invite teammates to workspace."
+Resolution: Team plan required for multi-user workspaces; customer upgraded plan.
+
+Notes
+- Most sync issues were resolved by upgrading to version 2.4.0.
+- Most SSO errors relate to SAML configuration mismatches.
+

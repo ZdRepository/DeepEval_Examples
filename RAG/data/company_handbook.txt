@@ -1,0 +1,35 @@
+Company Handbook (Sample)
+Version: 1.2
+Last Updated: 2026-01-15
+
+1. Work Hours
+- Core collaboration hours: 10:00 AM–3:00 PM local time.
+- Flexible hours outside core hours are allowed with manager approval.
+
+2. Paid Time Off (PTO)
+- Full-time employees accrue 1.5 days PTO per month.
+- PTO requests should be submitted at least 5 business days in advance.
+- Sick time: notify your manager as soon as possible; no minimum notice required.
+
+3. Remote Work
+- Remote work is allowed up to 3 days/week by default.
+- Fully remote roles require written approval from HR and the hiring manager.
+- Employees must maintain a reliable internet connection and a quiet workspace for meetings.
+
+4. Security and Access
+- Do not share account credentials.
+- Use MFA for all company accounts.
+- Lost device must be reported to IT within 24 hours.
+
+5. Expense Policy (High Level)
+- Business expenses require itemized receipts.
+- Reimbursements are processed every Friday.
+- Meals are reimbursable up to $35/day during travel.
+
+FAQ
+Q: Can I carry over PTO to next year?
+A: Up to 5 unused PTO days may be carried over into the next calendar year.
+
+Q: How do I request remote work beyond 3 days/week?
+A: Submit a Remote Work Exception form; HR and your manager must approve.
+
